@@ -1,0 +1,11 @@
+body {
+  background-image: url(https://wallpapers.com/images/hd/cloudy-weather-with-palm-tree-c4pzuybo1zlqcydt.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+.Bg {
+  background-color: rgba(207, 207, 207, 0.502);
+}
